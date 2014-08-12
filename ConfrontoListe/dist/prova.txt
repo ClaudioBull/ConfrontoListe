@@ -1,0 +1,4 @@
+sono stati trovati 4416 elementi in comune tra la lista virusshare_hash e la lista vxvault_hash
+La percentuale di elementi in comune trovati è pari al 0.430615% su 1025510 elementi totali di virusshare_hash
+La percentuale di elementi in comune trovati è pari al 19.276268% su 22909 elementi totali di vxvault_hash
+
